@@ -10,7 +10,6 @@ class weather_info():
 	
 	def get_info(self, city):
 		url = self.base + f'&q={city}'
-		print(url)
 		res = requests.get(url)
 		return json.loads(res.content)
 	
@@ -19,5 +18,5 @@ class weather_info():
 		parser.read(config)
 		return parser.get('creds', 'token')
 
-w = weather_info('owm_config.cfg')
-print(w.get_info('mumbai'))
+# w = weather_info('owm_config.cfg')
+# print(w.get_info('mumbai'))
