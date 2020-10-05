@@ -1,6 +1,9 @@
 # Telegram Weather Bot
 
 Telegram bot that provides real time weather info of a particular city using Open Weahter Maps API
+<p align="center">
+  <img src='./bot_test.jpg' width=275 />
+</p>
 
 ## How to run
 
