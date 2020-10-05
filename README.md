@@ -7,6 +7,9 @@ Telegram bot that provides real time weather info of a particular city using Ope
 
 ## How to run
 
+* Clone the repository: <br>
+``` $ https://github.com/pockemon/Youtube-Video-Downloader ``` 
+
 ### Requirements
 - `pip` install the packages in requirements.txt
 - Stable internet connnection required
@@ -23,8 +26,10 @@ Telegram bot that provides real time weather info of a particular city using Ope
 - Copy the API key and replace the given key with `YOUR_KEY` in owm_config.cfg
 
 ### Executing the Program
-Open your command prompt and switch to the directory where all files are stored and run the command below
-<br>`$ python server.py`
+* cd into directory using your command prompt: <br>
+```$ cd Youtube-Video-Downloader ```
+* Run the server.py file: <br>
+```$ python server.py ```
 
 ## Author
 
