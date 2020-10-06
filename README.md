@@ -27,7 +27,7 @@ Telegram bot that provides real time weather info of a particular city using Ope
 
 ### Executing the Program
 * cd into directory using your command prompt: <br>
-```$ cd Youtube-Video-Downloader ```
+```$ cd telegram-weather-bot```
 * Run the server.py file: <br>
 ```$ python server.py ```
 
