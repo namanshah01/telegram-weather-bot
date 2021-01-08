@@ -8,7 +8,7 @@ Telegram bot that provides real time weather info of a particular city using Ope
 ## How to run
 
 * Clone the repository: <br>
-``` $ https://github.com/pockemon/Youtube-Video-Downloader ``` 
+``` $ git clone https://github.com/namanshah01/telegram-weather-bot.git ``` 
 
 ### Requirements
 - `pip` install the packages in requirements.txt
